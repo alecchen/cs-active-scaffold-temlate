@@ -1,0 +1,15 @@
+[submodule "vendor/plugins/calendar_date_select"]
+	path = vendor/plugins/calendar_date_select
+	url = git://github.com/timcharper/calendar_date_select.git
+[submodule "vendor/plugins/to_icon_rails"]
+	path = vendor/plugins/to_icon_rails
+	url = git://github.com/umuro/to_icon_rails.git
+[submodule "vendor/plugins/active_scaffold"]
+	path = vendor/plugins/active_scaffold
+	url = git://github.com/activescaffold/active_scaffold.git
+[submodule "vendor/plugins/render_component"]
+	path = vendor/plugins/render_component
+	url = git://github.com/lackac/render_component.git
+[submodule "vendor/generators/cs_active_scaffold"]
+	path = vendor/generators/cs_active_scaffold
+	url = git://github.com/umuro/cs_active_scaffold.git
